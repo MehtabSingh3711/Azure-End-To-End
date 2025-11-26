@@ -1,0 +1,9 @@
+{
+	"name": "spotify-adf-37",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15d6b7d7-ec19-45c4-a63b-be1fd3f4ead8",
+		"tenantId": "34a2f27a-8bdf-4bcc-a928-859be8907de0"
+	}
+}
